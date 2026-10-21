@@ -6,7 +6,7 @@
 /*   By: ulyssezyberaj <ulyssezyberaj@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/16 17:32:32 by ulyssezyber       #+#    #+#             */
-/*   Updated: 2026/07/16 17:32:33 by ulyssezyber      ###   ########.fr       */
+/*   Updated: 2026/10/19 17:24:14 by ulyssezyber      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,7 +40,7 @@ void doubleValue(int& value)
 
 int main(void)
 {
-	// === Test 1 : reproduction du test d'evaluation (ex01.cpp) ===
+	// === Test 1 : reproduction du test d'evaluation ===
 	// Sujet : iter sur int[], d'abord afficher, puis modifier, puis reafficher.
 	// Attendu : 0 1 2 3 4 puis 42 42 42 42 42
 	std::cout << "=== Test 1 : test d'evaluation (ex01.cpp) ===" << std::endl;

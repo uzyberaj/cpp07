@@ -6,11 +6,11 @@
 /*   By: ulyssezyberaj <ulyssezyberaj@student.42    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/07/16 17:32:16 by ulyssezyber       #+#    #+#             */
-/*   Updated: 2026/07/16 17:32:17 by ulyssezyber      ###   ########.fr       */
+/*   Updated: 2026/10/19 17:12:37 by ulyssezyber      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "Whatever.hpp"
+#include "whatever.hpp"
 
 #include <iostream>
 #include <string>

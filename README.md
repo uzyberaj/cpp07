@@ -38,7 +38,7 @@ The project is split into **3 independent exercises**. All code complies with **
 
 ### 1. Exercise 00 — Start with a few functions ✅
 
-Three **function templates** in `Whatever.hpp`:
+Three **function templates** in `whatever.hpp`:
 
 * `swap(a, b)` — swaps two values of the same type by reference
 * `min(a, b)` — returns the smallest value; if equal, returns the **second** argument
@@ -77,7 +77,7 @@ A **class template** `Array<T>` that implements a fixed-size dynamic array:
 
 ```
 cpp07/
-├── ex00/   Whatever.hpp — swap, min, max
+├── ex00/   whatever.hpp — swap, min, max
 ├── ex01/   iter.hpp — iter
 ├── ex02/   Array.hpp + Array.tpp — Array<T>
 ├── subject.md
@@ -290,7 +290,7 @@ Le projet est découpé en **3 exercices indépendants**. Tout le code respecte 
 
 ### 1. Exercice 00 — Start with a few functions ✅
 
-Trois **fonctions template** dans `Whatever.hpp` :
+Trois **fonctions template** dans `whatever.hpp` :
 
 * `swap(a, b)` — échange deux valeurs du même type par référence
 * `min(a, b)` — retourne la plus petite ; si égales, retourne le **second** argument
@@ -329,7 +329,7 @@ Une **classe template** `Array<T>` qui implémente un tableau dynamique de taill
 
 ```
 cpp07/
-├── ex00/   Whatever.hpp — swap, min, max
+├── ex00/   whatever.hpp — swap, min, max
 ├── ex01/   iter.hpp — iter
 ├── ex02/   Array.hpp + Array.tpp — Array<T>
 ├── subject.md
